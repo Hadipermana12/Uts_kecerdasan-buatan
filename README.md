@@ -47,6 +47,3 @@ Model dievaluasi menggunakan data uji (20% dari dataset) dan menghasilkan metrik
 * **F1-Score (Makro Rata-rata):** `0.81`
 * **F1-Score (Kelas HS):** `0.77`
 
-### Classification Report
-
-
